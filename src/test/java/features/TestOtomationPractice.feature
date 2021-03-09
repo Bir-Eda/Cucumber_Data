@@ -1,9 +1,5 @@
 Feature: Alert Button
 
-
-
-
-
   @sendKeys
   Scenario Outline: As a user, I want to enter credentials
     Given I am on the Facebook homepage
